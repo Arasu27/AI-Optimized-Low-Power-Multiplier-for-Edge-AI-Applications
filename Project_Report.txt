@@ -1,0 +1,15 @@
+AI-Optimized Low-Power 8-bit Multiplier for Edge AI Applications
+
+1. Introduction:
+   - This project integrates AI with hardware to optimize power consumption.
+   - A neural network predicts workload patterns and dynamically adjusts the multiplier's power states.
+
+2. Key Components:
+   - Low-power 8-bit multiplier (Verilog)
+   - AI-based power control (Python TensorFlow)
+   - Testbench for simulation
+   - Power and timing analysis
+
+3. Results:
+   - Significant power savings using AI-driven clock gating.
+   - Suitable for Edge AI applications in IoT and mobile devices.
